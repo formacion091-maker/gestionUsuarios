@@ -26,12 +26,12 @@
             padding: 10px;
         }
         table td {
-            border: 1px solid #ddd;
+            border: 1px solid #c72591;
             padding: 8px;
         }
         button {
-            background-color: #3498db;
-            color: white;
+            background-color: #790b54;
+            color: rgb(43, 207, 144);
             border: none;
             padding: 8px 12px;
             cursor: pointer;

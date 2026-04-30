@@ -6,11 +6,6 @@
 </head><!DOCTYPE html>
 <html>
 <head>
-    <title>Gestión de Usuarios</title>
-  <!DOCTYPE html>
-<html>
-<head>
-    <title>Gestión de Usuarios</title>
     <style>
         body {
             /* Aquí defines la imagen de fondo */
