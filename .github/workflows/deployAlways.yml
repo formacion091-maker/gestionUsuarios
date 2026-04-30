@@ -26,4 +26,4 @@ jobs:
           log-level: standard
           exclude: |
            .git/**
-           .github/**
+           .github/** 
