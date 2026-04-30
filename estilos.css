@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Gestión de Usuarios</title>
-    <style>
         body {
             background-color: #f0f8ff; /* Color de fondo */
             font-family: Arial, sans-serif;
@@ -48,9 +43,3 @@
         a:hover {
             text-decoration: underline;
         }
-    </style>
-</head>
-<body>
-    <!-- Aquí va tu contenido PHP y HTML -->
-</body>
-</html>
