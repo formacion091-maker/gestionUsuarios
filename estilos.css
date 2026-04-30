@@ -1,15 +1,24 @@
+
+    
         body {
-            background-color: #f0f8ff; /* Color de fondo */
+            /* Aquí defines la imagen de fondo */
+            background-image: url("carro.jpg"); /* Cambia 'carro.jpg' por la imagen que quieras */
+            background-size: cover;   /* La imagen cubre toda la pantalla */
+            background-position: center; /* Centrada */
+            background-attachment: fixed; /* Se mantiene fija al hacer scroll */
             font-family: Arial, sans-serif;
-            margin: 20px;
+            color: #fff; /* Texto blanco para que contraste */
         }
         h2, h3 {
-            color: #2c3e50;
+            background-color: rgba(0,0,0,0.6); /* Fondo semitransparente */
+            padding: 10px;
+            border-radius: 5px;
         }
         table {
             border-collapse: collapse;
             width: 100%;
-            background-color: #ffffff;
+            background-color: rgba(255,255,255,0.8); /* Fondo blanco semitransparente */
+            color: #000;
         }
         table th {
             background-color: #3498db;
@@ -20,17 +29,11 @@
             border: 1px solid #ddd;
             padding: 8px;
         }
-        form {
-            margin-bottom: 20px;
-        }
-        input, button {
-            margin: 5px 0;
-            padding: 8px;
-        }
         button {
             background-color: #3498db;
             color: white;
             border: none;
+            padding: 8px 12px;
             cursor: pointer;
         }
         button:hover {
@@ -43,3 +46,4 @@
         a:hover {
             text-decoration: underline;
         }
+    
