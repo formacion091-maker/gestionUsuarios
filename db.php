@@ -2,7 +2,7 @@
 $host = "mysql-mina.alwaysdata.net";
 $user = "mina";
 $pass = "clase1234";
-$db   = "usuarios_db";
+$db   = "mina_usuarios_db";
 
 $conn = new mysqli($host, $user, $pass, $db);
 
